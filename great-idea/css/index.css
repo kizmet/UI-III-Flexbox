@@ -159,7 +159,7 @@ align-items: center;
 
 
 .header-img {
-	display: inline-block;
+	/* display: inline-block; */
 	float: right;
 	
 
